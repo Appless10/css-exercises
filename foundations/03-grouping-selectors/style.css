@@ -1,0 +1,14 @@
+.buttonclass {
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+
+.buttonclasstoo {
+    background-color: yellow;
+}
+
+.buttonclass, .buttonclasstoo {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif
+}
